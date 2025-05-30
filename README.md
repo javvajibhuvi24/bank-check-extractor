@@ -4,7 +4,7 @@ Transforming checks into insights, effortlessly and accurately.
 
 Built with the tools and technologies:
 
-![JSON](https://img.shields.io/badge/JSON-white?style=flat&logo=json&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-white?style=flat&logo=markdown&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=black)
+![Pytesseract](https://img.shields.io/badge/pytesseract-white?style=flat&logo=pytesseract&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=black)
 
 ## Core Technologies
 
