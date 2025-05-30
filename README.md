@@ -2,8 +2,6 @@
 
 Transforming checks into insights, effortlessly and accurately.
 
-![Last Commit](https://img.shields.io/badge/last%20commit-today-blue) ![Python](https://img.shields.io/badge/python-100.0%25-blue) ![Languages](https://img.shields.io/badge/languages-1-blue)
-
 Built with the tools and technologies:
 
 ![JSON](https://img.shields.io/badge/JSON-white?style=flat&logo=json&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-white?style=flat&logo=markdown&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=black)
