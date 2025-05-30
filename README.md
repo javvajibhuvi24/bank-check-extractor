@@ -97,7 +97,7 @@ python extractor.py
 Note: Ensure your check images/PDFs are placed in the data/checks/ directory before running.
 The extracted data will be saved as a CSV file in the data/output/ directory.
 
-Testing
+### Testing
 bank-check-extractor uses the pytest test framework. Run the test suite with:
 
 Using pip:
