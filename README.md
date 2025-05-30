@@ -4,7 +4,7 @@ Transforming checks into insights, effortlessly and accurately.
 
 Built with the tools and technologies:
 
-![Pytesseract](https://img.shields.io/badge/pytesseract-white?style=flat&logo=pytesseract&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=black)
+![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue) ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-grey?style=flat&logo=tesseract&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=black) ![cSpell](https://img.shields.io/badge/cSpell-blue?style=flat&logo=retext&logoColor=white)
 
 ## Core Technologies
 
@@ -122,6 +122,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ### Contact
 For any questions or inquiries, please contact:
 
-Javvaji Bhuvana - javvajibhuvi01@gmail.com
+Javvaji Bhuvi - javvajibhuvi01@gmail.com
 
 Project Link: https://github.com/javvajibhuvi24/bank-check-extractor
