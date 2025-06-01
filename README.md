@@ -118,6 +118,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 6.Open a pull request.
 
+### License
+This project is licensed under the MIT License.
+
 
 ### Contact
 For any questions or inquiries, please contact:
