@@ -1,4 +1,4 @@
-# BANK-CHECK-EXTRACTOR
+# BANK-CHECK-EXTRACTOR 
 
 Transforming checks into insights, effortlessly and accurately.
 
